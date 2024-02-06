@@ -1,0 +1,46 @@
+{
+  "name": "موقع الباك في الجيب | Bac Feljib كل ما يحتاجه تلاميذ البكالوريا",
+  "short_name": "Bac Feljib",
+  "start_url": "https://www.bac-feljib.com/",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#003b9f",
+  "description": "موقع الباك في الجيب | bac feljib هو موقع تعليمي جزائري مختص بنشر  كل ما يحتاجه تلاميذ البكالوريا من دروس و ملخصات  و كتب خارجية للبكالوريا, و كذالك نماذج اختبارات و مواضيع الباكالوريا. كما يقدم الموقع نصائح و ارشادات لطلاب البكالوريا صمم موقع الباك في الجيب خصيصا لأصحاب البكالوريا سواء كانوا نظاميين أو احرار  لتسهيل عليهم عملية البحث عن ما يحتاجونه في عام البكالوريا  .",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3NOhvqpVWmrRb_YFsdX520_lFfQFJYl7RGRzcHvCdNRHYZx8MvBCw1Wm5AJ8wYmHuLiARJKjxt_-XQTXQAqvHeDvgUmnpBult4xpXJ8JoO1W9rGz8nU1gFsj0d7aGgK91nhNrBH-kDFvtQL_h4-fdSCg5eJWseK4PwbRWODf541VAw8bDEd5mSGn9A5R/s48/android-icon-512x512.png.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3NOhvqpVWmrRb_YFsdX520_lFfQFJYl7RGRzcHvCdNRHYZx8MvBCw1Wm5AJ8wYmHuLiARJKjxt_-XQTXQAqvHeDvgUmnpBult4xpXJ8JoO1W9rGz8nU1gFsj0d7aGgK91nhNrBH-kDFvtQL_h4-fdSCg5eJWseK4PwbRWODf541VAw8bDEd5mSGn9A5R/s72/android-icon-512x512.png.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3NOhvqpVWmrRb_YFsdX520_lFfQFJYl7RGRzcHvCdNRHYZx8MvBCw1Wm5AJ8wYmHuLiARJKjxt_-XQTXQAqvHeDvgUmnpBult4xpXJ8JoO1W9rGz8nU1gFsj0d7aGgK91nhNrBH-kDFvtQL_h4-fdSCg5eJWseK4PwbRWODf541VAw8bDEd5mSGn9A5R/s96/android-icon-512x512.png.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3NOhvqpVWmrRb_YFsdX520_lFfQFJYl7RGRzcHvCdNRHYZx8MvBCw1Wm5AJ8wYmHuLiARJKjxt_-XQTXQAqvHeDvgUmnpBult4xpXJ8JoO1W9rGz8nU1gFsj0d7aGgK91nhNrBH-kDFvtQL_h4-fdSCg5eJWseK4PwbRWODf541VAw8bDEd5mSGn9A5R/s144/android-icon-512x512.png.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3NOhvqpVWmrRb_YFsdX520_lFfQFJYl7RGRzcHvCdNRHYZx8MvBCw1Wm5AJ8wYmHuLiARJKjxt_-XQTXQAqvHeDvgUmnpBult4xpXJ8JoO1W9rGz8nU1gFsj0d7aGgK91nhNrBH-kDFvtQL_h4-fdSCg5eJWseK4PwbRWODf541VAw8bDEd5mSGn9A5R/s168/android-icon-512x512.png.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3NOhvqpVWmrRb_YFsdX520_lFfQFJYl7RGRzcHvCdNRHYZx8MvBCw1Wm5AJ8wYmHuLiARJKjxt_-XQTXQAqvHeDvgUmnpBult4xpXJ8JoO1W9rGz8nU1gFsj0d7aGgK91nhNrBH-kDFvtQL_h4-fdSCg5eJWseK4PwbRWODf541VAw8bDEd5mSGn9A5R/s192/android-icon-512x512.png.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3NOhvqpVWmrRb_YFsdX520_lFfQFJYl7RGRzcHvCdNRHYZx8MvBCw1Wm5AJ8wYmHuLiARJKjxt_-XQTXQAqvHeDvgUmnpBult4xpXJ8JoO1W9rGz8nU1gFsj0d7aGgK91nhNrBH-kDFvtQL_h4-fdSCg5eJWseK4PwbRWODf541VAw8bDEd5mSGn9A5R/s512/android-icon-512x512.png.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
