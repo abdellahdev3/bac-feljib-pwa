@@ -42,5 +42,8 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "scripts": {
+    "installApp": "<script>/*<![CDATA[*/\nlet deferredPrompt;\nwindow.addEventListener('beforeinstallprompt', (e) => {\n  deferredPrompt = e;\n});\n\nconst installApp = document.getElementById('installApp');\ninstallApp.addEventListener('click', async () => {\n  if (deferredPrompt !== null) {\n    deferredPrompt.prompt();\n    const { outcome } = await deferredPrompt.userChoice;\n    if (outcome === 'accepted') {\n      deferredPrompt = null;\n    }\n  }\n});\n/*]]>*/</script>"
+  }
 }
